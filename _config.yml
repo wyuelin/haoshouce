@@ -5,7 +5,7 @@ author: 装修好手册
 description: "装修好手册，是您装修房屋的好帮手。" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
 keywords: "装修 好手册 装修助手"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://zhuangxiu.haoshouce.com" # the base hostname & protocol for your site
+url: "zhuangxiu.haoshouce.com" # the base hostname & protocol for your site
 locale: zh_CN # en_US
 
 ### Personal info and site tools info:
